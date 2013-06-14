@@ -51,8 +51,10 @@ Query Config - Int
      cycleTime = 5
 
 Zenoss authentication - user/password
+ Set the user and password for the script to authenticate with. Requires only ZenUser role.
  Example:
      zenossUser = 'zenoss_beep'
+
      zenossPassword = 'myReallyBadPassword'
 
 beepSound - File path
