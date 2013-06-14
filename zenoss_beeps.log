@@ -1,0 +1,547 @@
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Server* at Thu, 30 May 19:23
+INFO:ZenBeep:All events in syd are ACK at Thu, 30 May 19:23
+INFO:ZenBeep:All events in iad are ACK at Thu, 30 May 19:23
+CRITICAL:ZenBeep:1 events need to be ACK in dfw at Thu, 30 May 19:23
+INFO:ZenBeep:All events in lon are ACK at Thu, 30 May 19:23
+INFO:ZenBeep:All events in ord are ACK at Thu, 30 May 19:23
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:33
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:33
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:33
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:33
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:33
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:33
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:33
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:33
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:33
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:33
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:33
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:33
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:33
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:33
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:33
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:34
+CRITICAL:ZenBeep:1 events need to be ACK in iad at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:34
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:34
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:34
+CRITICAL:ZenBeep:1 events need to be ACK in iad at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:35
+CRITICAL:ZenBeep:1 events need to be ACK in iad at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:35
+CRITICAL:ZenBeep:1 events need to be ACK in iad at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:35
+CRITICAL:ZenBeep:1 events need to be ACK in iad at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:35
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:36
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:37
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:38
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:39
+CRITICAL:ZenBeep:1 events need to be ACK in iad at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:39
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:39
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:39
+CRITICAL:ZenBeep:1 events need to be ACK in iad at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:40
+CRITICAL:ZenBeep:1 events need to be ACK in iad at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:40
+CRITICAL:ZenBeep:1 events need to be ACK in iad at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:40
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:41
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:42
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:43
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:44
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:45
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:45
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:45
+INFO:ZenBeep:Checking events at 5
+INFO:ZenBeep:Checking for events matching severity=[5], eventState=[0], prodState=[1000], deviceClass=/Network* at Fri, 14 Jun 16:45
+INFO:ZenBeep:All events in syd are ACK at Fri, 14 Jun 16:45
+INFO:ZenBeep:All events in iad are ACK at Fri, 14 Jun 16:45
+INFO:ZenBeep:All events in dfw are ACK at Fri, 14 Jun 16:45
+INFO:ZenBeep:All events in lon are ACK at Fri, 14 Jun 16:45
+INFO:ZenBeep:All events in ord are ACK at Fri, 14 Jun 16:45
+INFO:ZenBeep:All events in hkg are ACK at Fri, 14 Jun 16:45
+INFO:ZenBeep:All events in sat are ACK at Fri, 14 Jun 16:45
+INFO:ZenBeep:All events are ACK at Fri, 14 Jun 16:45
+INFO:ZenBeep:Checking events at 5
