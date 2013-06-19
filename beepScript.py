@@ -2,6 +2,7 @@
 
 from api import ZAPI
 import os, time, thread
+import sys
 import glib, gobject
 from sound import playSound
 from time import gmtime, strftime
@@ -80,8 +81,9 @@ def mainQuery(severity, eventState, prodState, deviceClass):
             else:
                 ZenBeep.info("All events in %s are ACK at %s" % (target, nowString))
         except:
-            print "Failed to connect to %s at %s" % (target, nowString)
-            ZenBeep.critical("Failed to connect to %s at %s" % (target, nowString))
+            e = sys.exc_info()
+            print "Failed to connect to %s at %s - ERROR %s" % (target, nowString, e)
+            ZenBeep.critical("Failed to connect to %s at %s - ERROR %s" % (target, nowString, e))
             continue
         zapi = None
 
@@ -102,3 +104,7 @@ while(run == 1):
     except (KeyboardInterrupt, SystemExit):
         ZenBeep.info("Exited at %s" % (nowString))
         run = 0
+    except:
+        e = sys.exc_info()
+        print "Failure at %s - ERROR %s" % (nowString, e)
+        ZenBeep.critical("Failure at %s - ERROR %s" % (nowString, e))
