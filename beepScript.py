@@ -48,6 +48,8 @@ ZenBeep.setLevel(logging.DEBUG)
 handler = logging.handlers.SysLogHandler(address = '/dev/log')
 ZenBeep.addHandler(handler)
 
+run = 1
+
 # Method for Playback
 def playSoundMethod(uri):
     global loop
@@ -61,6 +63,7 @@ def playSoundMethod(uri):
 # Main JSON query loop
 def mainQuery(severity, eventState, prodState, deviceClass):
     overAllTotalEvents = 0
+    totalCount = 0
     for target in targetInstances.iterkeys():
         targetInstance = targetInstances[target]['targetInstance']
         queryResult = None
@@ -68,29 +71,34 @@ def mainQuery(severity, eventState, prodState, deviceClass):
         try:
             zapi = ZAPI(debug = False, targetInstance = targetInstance, zenossUser = zenossUser, zenossPassword = zenossPassword)
             queryResult = zapi.get_events(severity = severity, eventState = eventState, prodState = prodState, deviceClass = deviceClass)
-        except (ValueError):
+            totalCount = int(queryResult['totalCount'])
+            overAllTotalEvents = overAllTotalEvents + totalCount
+            if totalCount > 0:
+                print "%s events need to be ACK in %s at %s" % (str(totalCount), target, nowString)
+                ZenBeep.critical("%s events need to be ACK in %s at %s" % (str(totalCount), target, nowString))
+                playSoundMethod(beepSound)
+            else:
+                ZenBeep.info("All events in %s are ACK at %s" % (target, nowString))
+        except:
             print "Failed to connect to %s at %s" % (target, nowString)
             ZenBeep.critical("Failed to connect to %s at %s" % (target, nowString))
             continue
         zapi = None
-        totalCount = int(queryResult['totalCount'])
-        overAllTotalEvents = overAllTotalEvents + totalCount
-        if totalCount > 0:
-            print "%s events need to be ACK in %s at %s" % (str(totalCount), target, nowString)
-            ZenBeep.critical("%s events need to be ACK in %s at %s" % (str(totalCount), target, nowString))
-            playSoundMethod(beepSound)
-        else:
-            ZenBeep.info("All events in %s are ACK at %s" % (target, nowString))
+
     if overAllTotalEvents == 0:
         print "All events are ACK at %s" % (nowString)
         ZenBeep.info("All events are ACK at %s" % (nowString))
 
 
 # Main Loop
-while(1):
-    os.system('clear')
-    nowString = strftime("%a, %d %b %H:%M", gmtime())
-    ZenBeep.info("Checking for events matching severity=%s, eventState=%s, prodState=%s, deviceClass=%s at %s" % (severity, eventState, prodState, deviceClass, nowString))
-    mainQuery(severity, eventState, prodState, deviceClass)
-    ZenBeep.info("Checking events at %s" % (cycleTime))
-    time.sleep(cycleTime)
+while(run == 1):
+    try:
+        os.system('clear')
+        nowString = strftime("%a, %d %b %H:%M", gmtime())
+        ZenBeep.info("Checking for events matching severity=%s, eventState=%s, prodState=%s, deviceClass=%s at %s" % (severity, eventState, prodState, deviceClass, nowString))
+        mainQuery(severity, eventState, prodState, deviceClass)
+        ZenBeep.info("Checking events at %s" % (cycleTime))
+        time.sleep(cycleTime)
+    except (KeyboardInterrupt, SystemExit):
+        ZenBeep.info("Exited at %s" % (nowString))
+        run = 0
